@@ -1,0 +1,43 @@
+bre o chão de terra e cascalho, meus passos curtos me guiavam em direção a um orelhão desses antigos da década de 90, os que fizeram sucesso no Brasil. Estava acompanhado de outras 3 crianças: Henrique - meu irmão, Alyson e César - nossos amigos que também eram irmãos. Eu carregava nas mãos um gibi da Turma da Mônica e uma empolgação no peito.
+
+Não lembro se o telefone era um pouco alto demais pra mim e pro Alyson ou se meu irmão e César - os primogênitos - nos deixavam apenas de espectadores porque sim, mas o fato é que eles que apertariam os botões e viveriam a diversão primeiro.
+
+-Qual é o número? Tá na última página.
+
+-200 2021
+
+O dia era de vista, com céu azul e harmonia entre o verde dos pinheiros e a terra marrom chuviscada de pedrinhas. A Pousada do Lago, onde pousava o orelhão e onde também passei a fase mais especial da minha infância ficava em São Roque, cidade vizinha à capital paulista. Era na pousada que eu via o meu querido avô Abraão - ou Vovozito, como o chamávamos - e tínhamos à nossa disposição uma grande e preservada área verde com piscina, toboágua, quadras, bicicletas, muitas rotas de passeio, animais silvestres e outros amigos.
+
+O Vovozito era gerente da pousada, tão bem cuidada nos detalhes estéticos e na experiência dos hóspedes. Talvez pela competência de meu avô ou compaixão do dono, talvez um pouco dos dois, era permitido que nossa família ficasse por lá aos finais de semana. Chegávamos nas noites de sexta e voltávamos para São Paulo aos domingos. Lembro de dormirmos em chalezinhos vagos e simples, mas suficientes: uma sala, cozinha apertada, banheiro e quarto no andar de cima, com aquelas íngremes escadinhas de madeira, mas sempre dormíamos bem.
+
+Aquele número discado era o que o gibi da Mônica anunciava em diversas edições, prometendo histórias para quem se dispunha a ouvi-las. Enquanto eu olhava para o telefone que meu irmão levava à orelha, imaginava qual voz ele escutaria. Seria a própria Mônica que o atenderia para narrar sua história? Ou seria o Rolo, por ser mais velho e responsável? Pela minha cabeça pueril, talvez não passasse a possibilidade de ser apenas uma gravação dublada por atores pagos em uma fita de um sistema IVR (Interactive Voice Response), quem sabe com centenas ou milhares de fitas para atender as demandas dos pequenos dedos de crianças curiosas que discavam para a dentuça ao mesmo tempo. Meus olhos infantis enxergavam magia e não tecnologia àquela altura da vida.
+
+Quando se trabalha com TI, parece que a tecnologia perde aquele ar místico que a ignorância preserva. A minha vista cansada hoje enxerga magia, embora ainda exista bastante encanto em novidades tecnológicas.
+
+Recentemente, por exemplo, fui completamente dragado do fundo de um certo mesmismo diário quando lançaram a tecnologia de Inteligência Artificial chamada GPT (Generative Pre-Trained Transformer) em seus estados mais funcionais. Eu, particularmente, tive contato operacional com esta IA a partir da versão 2, quando ela começou a escrever textos quase coerentes, mas foi a partir da 3 que meu hiperfoco foi inconsequentemente direcionado para aquilo que parecia magia.
+
+O GPT, em termos leigos, é uma Inteligência Artificial que foi treinada utilizando uma grande base de dados de textos para fazer previsão de palavras e frases. Ela não tem intenção no que faz, apenas funciona como uma grande calculadora prosaica - e isso dá um poder inimaginável à humanidade. Este poder, no entanto, não parece tão óbvio à primeira vista: as pessoas citam a capacidade de escrever poemas como Vinicius de Moraes, por exemplo, mas a disrupção do GPT é ser uma nova interface entre humanos e máquinas, uma interface de linguagem natural, essa que falamos no dia a dia.
+
+As pessoas não precisam mais saber programar, necessariamente, para "conversar" com as máquinas e designar tarefas. Elas apenas pedem usando a linguagem popular. Quando refletimos de forma mais abstrata, percebemos que esta IA pode ser utilizada como um grande processador cognitivo. Isso significa que é possível terceirizar parte do processamento cognitivo de uma gama gigantesca de tarefas para a IA. É por isso que os trabalhos cerebrais de escritório também são impactados profundamente, para bem e para o mal.
+
+Não é mais imprescindível criar abstrações para a linguagem de programação através de interfaces gráficas sofisticadas e de alta manutenção. A abstração é a própria linguagem natural, aquela que usamos no dia a dia. Você deseja estruturar dados de um documento? Não precisa aprender python para isso necessariamente, basta pedir para a máquina fazê-lo, como se pediria a um analista de dados sempre disponível. Você quer analisar um relatório financeiro muito específico e de 100 páginas? É possível gerar uma análise sofisticada em segundos.
+
+Graças ao GPT, uma barreira gigantesca à produtividade e desenvolvimento tecnológico desaparece. Utilizando essa ferramenta, por exemplo, consegui em poucos minutos gerar um código em Python que me ajuda a escrever montando um gráfico de contagem de palavras, assim elimino redundâncias e otimizo a estilística:
+
+Além disso, o GPT é um tipo de tecnologia de algo maior chamado Large Language Model, ou seja: um modelo de IA treinado com uma base gigantesca de dados. As Large Language Models têm acelerado e desbloqueado novas descobertas científicas que ainda nem imaginamos. É uma revolução tecnológica que impacta diversas áreas do conhecimento humano.
+
+Um dos exemplos que me deixou impressionado ocorreu em em 2022, nos laboratórios de pesquisa de IA da Meta. Os cientistas desenvolveram o ESMFold, um dos maiores e mais sofisticados modelos de proteínas no estilo de uma Large Language Model, mas com sequências proteicas ao invés de linguagem natural, o que permitiu a previsão de estruturas 3D de cerca 600 milhões de proteínas. Diversos modelos foram feitos por outros laboratórios de pesquisa e alguns, inclusive, conseguiram inventar novas proteínas, representando um avanço científico realmente sério e que pode aumentar a qualidade de vida e longevidade do ser humano. Fico apenas imaginando o impacto disso na medicina, agricultura e biotecnologias em geral.
+
+Além do GPT e do ESMFold, outras ferramentas treinadas em gigantescas bases de dados conseguem comparar e gerar imagens através de algoritmos de vetores, outras geram vídeos e algumas até mesmo clonam a voz, o que barateia drasticamente a criação de produções audiovisuais, incluindo os deep fakes - vídeos gerados por IA com propósitos escusos, falsificando ações humanas para fins políticos e criminosos.
+
+Eu que vivi o disque Mônica agora tenho o prazer e o medo de viver uma revolução tecnológica deste tamanho. Quem sabe nos próximos 5 ou 10 anos um novo tratamento de câncer nasça dessas pesquisas e possibilite sua cura? Quem sabe o meu trabalho e o de milhões de pessoas seja completamente automatizado pela IA? O mundo, talvez nesse período, pode escalar desequilíbrios graves e conflitos internacionais por conta da geração e viralização de deep fakes políticos feitos por inteligências artificiais. Quem sabe? A realidade é extremamente complexa e de difícil previsão e o ser humano é altamente adaptivo.
+
+Enquanto eu esperava para ouvir a voz da mônica e viver alguma história divertida na minha imaginação infantil, jamais poderia prever que algumas décadas depois uma máquina poderia gerar a história em tempo real e dublar todos os personagens de modo que cada ligação seria única e especial de alguma forma.
+
+-"Este número de telefone não recebe chamadas a cobrar"
+
+-Alguém tem ficha?
+
+Trocamos olhares enquanto mapeávamos os bolsos, mas que criança carregaria consigo fichas de orelhão? Acabamos desistindo da brincadeira de premeditada derrota: a linha só funcionava para ligações da capital paulista, percebo hoje lendo o encarte.
+
+Deixamos o telefone desocupado e partimos em busca de alguma nova história, o que seria missão fácil naquele lugar.
